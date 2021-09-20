@@ -1,0 +1,89 @@
+    .MAIN-HEADING {
+        text-align: center;
+        font-size: 200px;
+        height: 200px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        background-color: #7287AE;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
+    .h {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    
+    .H2 {
+        font-size: 50px;
+        text-align: center;
+        color: #7287AE;
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+    
+    .bg {
+        background-color: #DAE7A9;
+    }
+    
+    .cards {
+        margin-top: 50px;
+    }
+    
+    .button {
+        margin-top: 50px;
+        margin-bottom: 30px;
+        margin-left: 50%;
+    }
+    
+    .H3 {
+        padding-inline-start: 50px;
+        font-size: 50px;
+        color: black;
+        padding-top: 100px;
+    }
+    
+    .banner {
+        align-content: center;
+        background-color: white;
+    }
+    
+    .align {
+        float: left 50%;
+        font-size: 80px;
+        color: white;
+        background-color: #7287AE;
+    }
+    
+    .no {
+        font-size: 50px;
+        text-align: center;
+        background-color: #7287AE;
+        margin-top: 5px;
+    }
+    
+    .number {
+        padding-top: 40px;
+    }
+    
+    .images {
+        margin-top: 5px;
+    }
+    
+    .container-fluid {
+        position: relative;
+        text-align: center;
+        color: white;
+    }
+    
+    .centered {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 50px;
+        ;
+    }
+    
+    .footer {
+        margin-top: 2px;
+    }
